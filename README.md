@@ -51,7 +51,7 @@ This project was born out of a passion for music and a desire to make playlist m
 While working on this project, listen to: **"Digital Love" by Daft Punk** – perfect for coding while staying in a groove!
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the AGPL-3.0 License - see the LICENSE file for details.
 
 ## 🙌 Contributions
 Feel free to submit pull requests or open issues if you have suggestions, improvements, or bug reports. Any contributions are welcome!
